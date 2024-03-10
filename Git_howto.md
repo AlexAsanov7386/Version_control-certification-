@@ -107,3 +107,8 @@ git push origin --delete "имя ветки"
 ```sh
 git pull --rebase
 ```
+
+Для разрешения конфликта локального репозитория с удаленным:
+```sh
+git rebase --continue
+```
