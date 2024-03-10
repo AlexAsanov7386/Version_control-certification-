@@ -112,3 +112,8 @@ git pull --rebase
 ```sh
 git rebase --continue
 ```
+
+Для работы с чужим проектом на сайте github.com:
+```sh
+нажимаем на иконку "Fork"
+```
