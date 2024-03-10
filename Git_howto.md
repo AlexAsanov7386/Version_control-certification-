@@ -93,3 +93,9 @@ git push
 ```sh
 git pull
 ```
+
+Команда для просмотра репозиториев, связанных с Github:
+```sh
+git remote -v или git remote show origin
+```
+
