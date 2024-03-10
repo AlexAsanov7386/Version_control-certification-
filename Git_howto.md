@@ -99,3 +99,11 @@ git pull
 git remote -v или git remote show origin
 ```
 
+Для удаления ветки с локального репозитория вводим команду:
+```sh
+git push origin --delete "имя ветки"
+```
+Для работы с конфликтом локального репозитория с удаленным:
+```sh
+git pull --rebase
+```
